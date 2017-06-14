@@ -1,0 +1,74 @@
+[
+{
+     "firstName": "John",
+     "lastName": "Smith",
+     "age": 25,
+	 "creditLimit": 5000,
+     "address":
+     {
+         "streetAddress": "21 2nd Street",
+         "city": "New York",
+         "state": "NY",
+         "postalCode": "10021"
+     },
+     "phoneNumber":
+     [
+         {
+           "type": "home",
+           "number": "212 555-1234"
+         },
+         {
+           "type": "fax",
+           "number": "646 555-4567"
+         }
+     ]
+ },
+ {
+     "firstName": "Bob",
+     "lastName": "Johnson",
+     "age": 30,
+	 "creditLimit": 15000,
+     "address":
+     {
+         "streetAddress": "42 1st Avenue",
+         "city": "New York",
+         "state": "NY",
+         "postalCode": "10025"
+     },
+     "phoneNumber":
+     [
+         {
+           "type": "home",
+           "number": "213 556-4567"
+         },
+         {
+           "type": "fax",
+           "number": "647 557-3445"
+         }
+     ]
+ },
+ {
+     "firstName": "Frank",
+     "lastName": "Gupta",
+     "age": 35,
+	 "creditLimit": 7500,
+     "address":
+     {
+         "streetAddress": "405 Beverly Hills",
+         "city": "Los Angeles",
+         "state": "CA",
+         "postalCode": "90210"
+     },
+     "phoneNumber":
+     [
+         {
+           "type": "office",
+           "number": "212 558-4321"
+         },
+         {
+           "type": "fax",
+           "number": "646 553-2227"
+         }
+     ]
+ }
+]

@@ -1,0 +1,8 @@
+{
+    "id": 1, 
+    "name": "Bob", 
+    "address": {
+        "home": "indonesia", 
+        "office": "yongin"
+    }
+}

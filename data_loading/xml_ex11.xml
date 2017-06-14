@@ -1,0 +1,6 @@
+<person>
+  <name>Charlie</name>
+  <address properties="hometown">Indonesia</address>
+  <address properties="living place">Dormitory</address>
+  <address properties="office">Yongin</address>
+</person>
